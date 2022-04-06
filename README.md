@@ -5,8 +5,8 @@
 https://sinohub.org/
 
 sino library
-类似于
 
- rust https://crates.io/
-
- python https://pypi.org/
+org 官方的
+com|pub
+dev
+test
